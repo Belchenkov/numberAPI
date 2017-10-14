@@ -1,7 +1,11 @@
 body {
     font-family: 'Rye', cursive;
+    text-shadow: 0 1px 5px #000000; 
 }
 
 #fact {
     display: none;
+    border: 1px dashed #fff;
+    margin-top: 20px;
+    text-align: center;
 }
